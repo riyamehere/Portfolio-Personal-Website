@@ -1,0 +1,193 @@
+{
+  "basic_info": {
+    "name": "Riya Mehere",
+    "titles": [
+      "Front-end Developer",
+      "Software Engineer",
+      "MERN stack developer",
+      "ReactJS developer",
+      "React Native developer"
+    ],
+    "socials": [
+      {
+        "icon": "mdi:linkedin",
+        "url": "https://www.linkedin.com/in/riya-mehere-82994b170/"
+      },
+      {
+        "icon": "mdi:github",
+        "url": "https://github.com/riyamehere?tab=repositories"
+      },
+      {
+        "icon": "mdi:gmail",
+        "url": "mailto:rmehere23@gmail.com"
+      }
+    ]
+  },
+  "about_me": {
+    "title": "About me",
+    "greeting": "Hi",
+    "content": " 👋 Hello, I'm Riya Mehere, an experienced MERN stack developer with a focus on React.js, boasting over 2 years of hands-on experience. I specialize in creating inventive and user-friendly interfaces to elevate overall user satisfaction. With a successful history in front-end development, I excel in implementing modern React.js components and seamlessly integrating them with back-end technologies. My commitment lies in delivering top-notch, scalable, and visually pleasing web solutions. This website, skillfully crafted by me, is powered by React with Vite and TypeScript. I've incorporated enhanced language support using i18next and implemented a seamless switch between light and dark modes. As an experienced MERN stack developer, I've ensured that the site not only delivers a smooth and responsive user experience but also stays ahead with the latest technologies and features. Thank you! 💜",
+    "image": "myProfile1.jpeg",
+    "tech_stacks": ["devicon:javascript", "devicon:react", "devicon:typescript"]
+  },
+  "projects": {
+    "title": "projects",
+    "projects": [
+      {
+        "title": "Document Copilot",
+        "startDate": "2023",
+        "description": "An AI-driven chatbot embedded within SharePoint, intelligently responding to queries by extracting insights from trained documents. The collapsible interface ensures user-friendly experiences, presenting responses in diverse formats, enhancing comprehension. This pioneering project streamlines information retrieval and elevates user engagement through an intuitive, responsive conversational interface, backed by cutting-edge machine learning algorithms.",
+        "images": [
+          "images/portfolio/copilot/copilot.jpeg",
+          "images/portfolio/copilot/copilot2.png"
+        ],
+        "url": "https://github.com/riyamehere?tab=repositories",
+        "technologies": [
+          {
+            "class": "mdi:react",
+            "name": "React"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "mdi:microsoft-sharepoint",
+            "name": "Sharepoint"
+          },
+          {
+            "class":"mingcute:openai-fill",
+            "name": "Open AI"
+          }
+        ]
+      },
+      {
+        "title": "Code Purity Analyzer",
+        "startDate": "2023",
+        "description": "Developed a cutting-edge Code Analyzer Tool with an intuitive User Interface using Node.js. This tool detects code smells and suboptimal coding practices, empowering developers to enhance code quality. It highlights files with potential issues, underlines problematic statements, and provides valuable insights such as test coverage percentage. Successfully validated across diverse projects, ensuring accurate and reliable code analysis. It also provides an option to download the reports in pdf format.",
+        "images": [
+          "images/portfolio/analyzer/codesmell.png",
+          "images/portfolio/analyzer/codesmell2.jpg",
+          "images/portfolio/analyzer/codesmell5.jpg"
+        ],
+        "url": "https://github.com/riyamehere/Code-Purity-Analyzer-Package",
+        "technologies": [
+          {
+            "class": "devicon-plain:nodejs-wordmark",
+            "name": "Node"
+          },
+          {
+            "class": "teenyicons:javascript-outline",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Traffic Statistics Mobile App",
+        "startDate": "2022",
+        "description": "Spearheaded the development of a cutting-edge mobile application using React Native, delivering an intuitive and visually appealing user interface for real-time traffic data, including alerts. Leveraged interactive maps and charts powered by Mapbox and ECharts libraries to seamlessly integrate traffic information. This innovative app empowers traffic managers with comprehensive data visualization, enhancing decision-making and response capabilities.",
+        "images": [
+          "images/portfolio/traffic/traffic.jpeg",
+          "images/portfolio/traffic/app4.png"
+        ],
+        "url": "https://github.com/riyamehere?tab=repositories",
+        "technologies": [
+          {
+            "class": "tabler:brand-react-native",
+            "name": "React Native"
+          },
+          {
+            "class": "teenyicons:typescript-outline",
+            "name": "TypeScript"
+          },
+          {
+            "class": "mdi:mapbox",
+            "name": "Mapbox"
+          },
+          {
+            "class": "simple-icons:apacheecharts",
+            "name":"Echarts"
+          }
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "icons": [
+      {
+        "name": "ReactJS",
+        "class": "simple-icons:react",
+        "level": "90"
+      },
+      {
+        "name": "HTML 5",
+        "class": "ri:html5-fill",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "teenyicons:css3-solid",
+        "level": "95"
+      },
+      {
+        "name": "Mongo DB",
+        "class": "simple-icons:mongodb",
+        "level": "80"
+      },
+      {
+        "name": "TypeScript",
+        "class": "teenyicons:typescript-solid",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "teenyicons:javascript-solid",
+        "level": "70"
+      },
+      {
+        "name": "NodeJS",
+        "class": "devicon-plain:nodejs-wordmark",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "ri:bootstrap-fill",
+        "level": "85"
+      },
+      {
+        "name": "Material UI",
+        "class": "simple-icons:mui",
+        "level": "60"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "experiences": [
+      {
+        "company": "Konverge.ai",
+        "title": "Software Development Engineer",
+        "years": "July 2022 - present",
+        "mainTech": "React, Typescript",
+        "mainTechIcon": "mdi:react",
+        "technologies": [
+          "ReactJS",
+          "TypeScript",
+          "Material UI",
+          "NodeJS",
+          "SQL"
+        ]
+      },
+      {
+        "company": "Konverge.ai",
+        "title": "Full stack development Intern",
+        "years": "Feb 2022 - June 2022",
+        "mainTech": "Javascript",
+        "mainTechIcon": "teenyicons:javascript-solid",
+        "technologies": ["JavaScript", "ReactJS", "MongoDB", "ExpressJS", "NodeJS"]
+      }
+    ]
+  },
+  "copyright": "Copyright"
+}
