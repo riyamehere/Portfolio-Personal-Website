@@ -26,20 +26,22 @@
   "about_me": {
     "title": "About me",
     "greeting": "Hi",
-    "content": " 👋 Hello, I'm Riya Mehere, an experienced MERN stack developer with a focus on React.js, boasting over 2 years of hands-on experience. I specialize in creating inventive and user-friendly interfaces to elevate overall user satisfaction. With a successful history in front-end development, I excel in implementing modern React.js components and seamlessly integrating them with back-end technologies. My commitment lies in delivering top-notch, scalable, and visually pleasing web solutions. This website, skillfully crafted by me, is powered by React with Vite and TypeScript. I've incorporated enhanced language support using i18next and implemented a seamless switch between light and dark modes. As an experienced MERN stack developer, I've ensured that the site not only delivers a smooth and responsive user experience but also stays ahead with the latest technologies and features. Thank you! 💜",
-    "image": "myProfile1.jpeg",
+    "content": " 👋 Hello, I'm Riya Mehere, an experienced MERN stack developer with a focus on React.js, boasting over 3 years of hands-on experience. I specialize in creating inventive and user-friendly interfaces to elevate overall user satisfaction. With a successful history in front-end development, I excel in implementing modern React.js components and seamlessly integrating them with back-end technologies. My commitment lies in delivering top-notch, scalable, and visually pleasing web solutions. This website, skillfully crafted by me, is powered by React with Vite and TypeScript. I've incorporated enhanced language support using i18next and implemented a seamless switch between light and dark modes. As an experienced MERN stack developer, I've ensured that the site not only delivers a smooth and responsive user experience but also stays ahead with the latest technologies and features. Thank you! 💜",
+    "image": "myProfile.jpg",
     "tech_stacks": ["devicon:javascript", "devicon:react", "devicon:typescript"]
   },
   "projects": {
     "title": "projects",
     "projects": [
       {
-        "title": "Document Copilot",
-        "startDate": "2023",
-        "description": "An AI-driven chatbot embedded within SharePoint, intelligently responding to queries by extracting insights from trained documents. The collapsible interface ensures user-friendly experiences, presenting responses in diverse formats, enhancing comprehension. This pioneering project streamlines information retrieval and elevates user engagement through an intuitive, responsive conversational interface, backed by cutting-edge machine learning algorithms.",
+        "title": "AI powered Data and Document Copilot",
+        "startDate": "2024-2025",
+        "description": "An AI-powered chatbot agent built with React, TypeScript, and MUI provides an intuitive messenger-like chat experience with AI-generated responses. It enhances user interaction with highly user-friendly tables and visualizations, making data easier to understand. The chatbot includes a PDF viewer for document access, chat history management, and the ability to export conversations to PDF, with the option to select specific chats for export. The seamless UI ensures a smooth, interactive experience while leveraging AI to deliver insightful and context-aware responses.",
         "images": [
           "images/portfolio/copilot/copilot.jpeg",
-          "images/portfolio/copilot/copilot2.png"
+          "images/portfolio/copilot/copilot1.png",
+          "images/portfolio/copilot/copilot2.png",
+          "images/portfolio/copilot/signin.png"
         ],
         "url": "https://github.com/riyamehere?tab=repositories",
         "technologies": [
@@ -50,10 +52,6 @@
           {
             "class": "teenyicons:typescript-outline",
             "name": "TypeScript"
-          },
-          {
-            "class": "mdi:microsoft-sharepoint",
-            "name": "Sharepoint"
           },
           {
             "class":"mingcute:openai-fill",
@@ -167,7 +165,7 @@
     "experiences": [
       {
         "company": "Konverge.ai",
-        "title": "Software Development Engineer",
+        "title": "Software Development Engineer (Frontend heavy)",
         "years": "July 2022 - present",
         "mainTech": "React, Typescript",
         "mainTechIcon": "mdi:react",
@@ -181,11 +179,19 @@
       },
       {
         "company": "Konverge.ai",
-        "title": "Full stack development Intern",
+        "title": "Full stack development Intern (Frontend heavy)",
         "years": "Feb 2022 - June 2022",
         "mainTech": "Javascript",
         "mainTechIcon": "teenyicons:javascript-solid",
         "technologies": ["JavaScript", "ReactJS", "MongoDB", "ExpressJS", "NodeJS"]
+      },
+      {
+        "company": "Indian Institute of Information Technology, Nagpur",
+        "title": "Computer Science Engineering",
+        "years": "2018 - 2022",
+        "mainTech": "Bachelor of Technology",
+        "mainTechIcon": "teenyicons:school-solid",
+        "technologies": ["SSRN published research paper"]
       }
     ]
   },
